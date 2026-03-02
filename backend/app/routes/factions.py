@@ -71,7 +71,7 @@ def chat_with_faction():
 
     # Формируем запрос в стиле OpenAI/OpenRouter
     payload = {
-        "model": "google/gemini-flash-1.5",
+        "model": "google/gemini-1.5-flash",
         "messages": [
             {"role": "system", "content": FACTION_DATA[faction_id]["prompt"]},
             {"role": "user", "content": message}
@@ -86,6 +86,11 @@ def chat_with_faction():
         reply = result['choices'][0]['message']['content']
         return jsonify({"reply": reply}), 200
 
-    except Exception as e:
-        print(f"[OPENROUTER ERROR] {e}")
+
+    except requests.exceptions.RequestException as e:
+
+        error_details = e.response.text if e.response is not None else str(e)
+
+        print(f"[OPENROUTER ERROR] {error_details}")
+
         return jsonify({"error": "Сбой модуля связи через ретранслятор"}), 500
