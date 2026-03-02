@@ -1,71 +1,5 @@
 [
   {
-    "id": "con_hec",
-    "name": "HEC",
-    "category": "consumables",
-    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nHEC",
-    "type": "Survival",
-    "rarity": "Enhanced",
-    "value": "60 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/consumables/hec.webp"
-  },
-  {
-    "id": "con_depleted_patch_kit",
-    "name": "Depleted Patch Kit",
-    "category": "consumables",
-    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nDEPLETED PATCH KIT",
-    "type": "Heal",
-    "rarity": "Standard",
-    "value": "10 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/consumables/depleted_patch_kit.webp"
-  },
-  {
-    "id": "con_depleted_shield_charge",
-    "name": "Depleted Shield Charge",
-    "category": "consumables",
-    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nDEPLETED SHIELD CHARGE",
-    "type": "Shield",
-    "rarity": "Standard",
-    "value": "10 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/consumables/depleted_shield_charge.webp"
-  },
-  {
-    "id": "con_panacea_kit",
-    "name": "Panacea Kit",
-    "category": "consumables",
-    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nPANACEA KIT",
-    "type": "Shield",
-    "rarity": "Superior",
-    "value": "280 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/consumables/panacea_kit.webp"
-  },
-  {
-    "id": "con_signal_jammer",
-    "name": "Signal Jammer",
-    "category": "consumables",
-    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nSIGNAL JAMMER",
-    "type": "Utility",
-    "rarity": "Enhanced",
-    "value": "45 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/consumables/signal_jammer.webp"
-  },
-  {
-    "id": "con_os_reboot",
-    "name": "OS Reboot",
-    "category": "consumables",
-    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nOS REBOOT",
-    "type": "Cleanse",
-    "rarity": "Standard",
-    "value": "20 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/consumables/os_reboot.webp"
-  },
-  {
     "id": "con_advanced_patch_kit",
     "name": "Advanced Patch Kit",
     "category": "consumables",
@@ -75,17 +9,6 @@
     "value": "540 Credits",
     "comments": "COMMENTS\nINFO",
     "image": "/images/consumables/advanced_patch_kit.webp"
-  },
-  {
-    "id": "con_mechanic's_kit",
-    "name": "Mechanic's Kit",
-    "category": "consumables",
-    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nMECHANICS KIT",
-    "type": "Cleanse",
-    "rarity": "Standard",
-    "value": "20 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/consumables/mechanic's_kit.webp"
   },
   {
     "id": "con_shield_charge",
@@ -99,6 +22,28 @@
     "image": "/images/consumables/shield_charge.webp"
   },
   {
+    "id": "con_advanced_os_debug",
+    "name": "Advanced OS Debug",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nADVANCED OS DEBUG",
+    "type": "Cleanse",
+    "rarity": "Enhanced",
+    "value": "60 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/advanced_os_debug.webp"
+  },
+  {
+    "id": "con_os_reboot",
+    "name": "OS Reboot",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nOS REBOOT",
+    "type": "Cleanse",
+    "rarity": "Standard",
+    "value": "20 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/os_reboot.webp"
+  },
+  {
     "id": "con_cardio_kick",
     "name": "Cardio Kick",
     "category": "consumables",
@@ -110,6 +55,94 @@
     "image": "/images/consumables/cardio_kick.webp"
   },
   {
+    "id": "con_hec",
+    "name": "HEC",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nHEC",
+    "type": "Survival",
+    "rarity": "Enhanced",
+    "value": "60 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/hec.webp"
+  },
+  {
+    "id": "con_advanced_mechanics_kit",
+    "name": "Advanced Mechanics Kit",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nADVANCED MECHANICS KIT",
+    "type": "Survival",
+    "rarity": "Enhanced",
+    "value": "60 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/advanced_mechanics_kit.webp"
+  },
+  {
+    "id": "con_energy_amp",
+    "name": "Energy Amp",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nENERGY AMP",
+    "type": "Buff",
+    "rarity": "Deluxe",
+    "value": "80 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/energy_amp.webp"
+  },
+  {
+    "id": "con_panacea_kit",
+    "name": "Panacea Kit",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nPANACEA KIT",
+    "type": "Shield",
+    "rarity": "Superior",
+    "value": "280 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/panacea_kit.webp"
+  },
+  {
+    "id": "con_depleted_patch_kit",
+    "name": "Depleted Patch Kit",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nDEPLETED PATCH KIT",
+    "type": "Heal",
+    "rarity": "Standard",
+    "value": "10 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/depleted_patch_kit.webp"
+  },
+  {
+    "id": "con_signal_jammer",
+    "name": "Signal Jammer",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nSIGNAL JAMMER",
+    "type": "Utility",
+    "rarity": "Enhanced",
+    "value": "45 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/signal_jammer.webp"
+  },
+  {
+    "id": "con_os_debug",
+    "name": "OS Debug",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nOS DEBUG",
+    "type": "Cleanse",
+    "rarity": "Standard",
+    "value": "100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/os_debug.webp"
+  },
+  {
+    "id": "con_anti_virus_pack",
+    "name": "Anti-Virus Pack",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nANTI VIRUS PACK",
+    "type": "Survival",
+    "rarity": "Enhanced",
+    "value": "60 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/anti-virus_pack.webp"
+  },
+  {
     "id": "con_patch_kit",
     "name": "Patch Kit",
     "category": "consumables",
@@ -119,5 +152,49 @@
     "value": "125 Credits",
     "comments": "COMMENTS\nINFO",
     "image": "/images/consumables/patch_kit.webp"
+  },
+  {
+    "id": "con_depleted_shield_charge",
+    "name": "Depleted Shield Charge",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nDEPLETED SHIELD CHARGE",
+    "type": "Shield",
+    "rarity": "Standard",
+    "value": "10 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/depleted_shield_charge.webp"
+  },
+  {
+    "id": "con_self_revive",
+    "name": "Self Revive",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nSELF REVIVE",
+    "type": "Survival",
+    "rarity": "Deluxe",
+    "value": "100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/self_revive.webp"
+  },
+  {
+    "id": "con_mechanic's_kit",
+    "name": "Mechanic's Kit",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nMECHANICS KIT",
+    "type": "Cleanse",
+    "rarity": "Standard",
+    "value": "20 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/mechanic's_kit.webp"
+  },
+  {
+    "id": "con_advanced_shield_charge",
+    "name": "Advanced Shield Charge",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nADVANCED SHIELD CHARGE",
+    "type": "Shield",
+    "rarity": "Deluxe",
+    "value": "80 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/advanced_shield_charge.webp"
   }
 ]

@@ -11,61 +11,6 @@
     "image": "/images/cores/no_good_deed.webp"
   },
   {
-    "id": "cor_safe_landing",
-    "name": "Safe Landing",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nSAFE LANDING",
-    "type": "Core",
-    "rarity": "Deluxe",
-    "value": "198.04 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/safe_landing.webp"
-  },
-  {
-    "id": "cor_adrenal_core",
-    "name": "Adrenal Core",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nADRENAL CORE",
-    "type": "Core",
-    "rarity": "Superior",
-    "value": "1800 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/adrenal_core.webp"
-  },
-  {
-    "id": "cor_myrmidon",
-    "name": "Myrmidon",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nMYRMIDON",
-    "type": "Core",
-    "rarity": "Deluxe",
-    "value": "200 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/myrmidon.webp"
-  },
-  {
-    "id": "cor_hit_and_run",
-    "name": "Hit and Run",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nHIT AND RUN",
-    "type": "Core",
-    "rarity": "Deluxe",
-    "value": "200 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/hit_and_run.webp"
-  },
-  {
-    "id": "cor_flight_response",
-    "name": "Flight Response",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nFLIGHT RESPONSE",
-    "type": "Core",
-    "rarity": "Standard",
-    "value": "35 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/flight_response.webp"
-  },
-  {
     "id": "cor_ankle_breaker",
     "name": "Ankle Breaker",
     "category": "cores",
@@ -75,72 +20,6 @@
     "value": "200 Credits",
     "comments": "COMMENTS\nINFO",
     "image": "/images/cores/ankle_breaker.webp"
-  },
-  {
-    "id": "cor_patience",
-    "name": "Patience",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nPATIENCE",
-    "type": "Core",
-    "rarity": "Deluxe",
-    "value": "198.04 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/patience.webp"
-  },
-  {
-    "id": "cor_heavy_ordnance",
-    "name": "Heavy Ordnance",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nHEAVY ORDNANCE",
-    "type": "Core",
-    "rarity": "Enhanced",
-    "value": "70 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/heavy_ordnance.webp"
-  },
-  {
-    "id": "cor_tag!",
-    "name": "Tag!",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nTAG",
-    "type": "Core",
-    "rarity": "Enhanced",
-    "value": "70 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/tag!.webp"
-  },
-  {
-    "id": "cor_intuition",
-    "name": "Intuition",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nINTUITION",
-    "type": "Core",
-    "rarity": "Prestige",
-    "value": "2500 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/intuition.webp"
-  },
-  {
-    "id": "cor_guerrilla",
-    "name": "Guerrilla",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nGUERRILLA",
-    "type": "Core",
-    "rarity": "Superior",
-    "value": "600 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/guerrilla.webp"
-  },
-  {
-    "id": "cor_friendly_face",
-    "name": "Friendly Face",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nFRIENDLY FACE",
-    "type": "Core",
-    "rarity": "Deluxe",
-    "value": "200 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/friendly_face.webp"
   },
   {
     "id": "cor_on_the_trail",
@@ -154,17 +33,6 @@
     "image": "/images/cores/on_the_trail.webp"
   },
   {
-    "id": "cor_cluster_payload",
-    "name": "Cluster Payload",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nCLUSTER PAYLOAD",
-    "type": "Core",
-    "rarity": "Superior",
-    "value": "600 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/cluster_payload.webp"
-  },
-  {
     "id": "cor_partner_in_crime",
     "name": "Partner in Crime",
     "category": "cores",
@@ -174,138 +42,6 @@
     "value": "2500 Credits",
     "comments": "COMMENTS\nINFO",
     "image": "/images/cores/partner_in_crime.webp"
-  },
-  {
-    "id": "cor_microjet_efficiency_package",
-    "name": "Microjet Efficiency Package",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nMICROJET EFFICIENCY PACKAGE",
-    "type": "Core",
-    "rarity": "Prestige",
-    "value": "2500 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/microjet_efficiency_package.webp"
-  },
-  {
-    "id": "cor_bullrush",
-    "name": "Bullrush",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nBULLRUSH",
-    "type": "Core",
-    "rarity": "Superior",
-    "value": "598.04 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/bullrush.webp"
-  },
-  {
-    "id": "cor_bombing_run",
-    "name": "Bombing Run",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nBOMBING RUN",
-    "type": "Core",
-    "rarity": "Enhanced",
-    "value": "70 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/bombing_run.webp"
-  },
-  {
-    "id": "cor_greed_is_good",
-    "name": "Greed is Good",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nGREED IS GOOD",
-    "type": "Core",
-    "rarity": "Enhanced",
-    "value": "67.04 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/greed_is_good.webp"
-  },
-  {
-    "id": "cor_hot_pursuit",
-    "name": "Hot Pursuit",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nHOT PURSUIT",
-    "type": "Core",
-    "rarity": "Enhanced",
-    "value": "70 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/hot_pursuit.webp"
-  },
-  {
-    "id": "cor_counter_attack",
-    "name": "Counter Attack",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nCOUNTER ATTACK",
-    "type": "Core",
-    "rarity": "Prestige",
-    "value": "2500 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/counter_attack.webp"
-  },
-  {
-    "id": "cor_flexweave_casing",
-    "name": "Flexweave Casing",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nFLEXWEAVE CASING",
-    "type": "Core",
-    "rarity": "Deluxe",
-    "value": "200 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/flexweave_casing.webp"
-  },
-  {
-    "id": "cor_shadow_strike",
-    "name": "Shadow Strike",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nSHADOW STRIKE",
-    "type": "Core",
-    "rarity": "Prestige",
-    "value": "2500 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/shadow_strike.webp"
-  },
-  {
-    "id": "cor_impact_siphons",
-    "name": "Impact Siphons",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nIMPACT SIPHONS",
-    "type": "Core",
-    "rarity": "Prestige",
-    "value": "2500 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/impact_siphons.webp"
-  },
-  {
-    "id": "cor_early_warning_system",
-    "name": "Early Warning System",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nEARLY WARNING SYSTEM",
-    "type": "Core",
-    "rarity": "Prestige",
-    "value": "2500 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/early_warning_system.webp"
-  },
-  {
-    "id": "cor_breathing_space",
-    "name": "Breathing Space",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nBREATHING SPACE",
-    "type": "Core",
-    "rarity": "Enhanced",
-    "value": "70 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/breathing_space.webp"
-  },
-  {
-    "id": "cor_bombardier",
-    "name": "Bombardier",
-    "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nBOMBARDIER",
-    "type": "Core",
-    "rarity": "Enhanced",
-    "value": "70 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/bombardier.webp"
   },
   {
     "id": "cor_case_the_joint",
@@ -319,15 +55,81 @@
     "image": "/images/cores/case_the_joint.webp"
   },
   {
-    "id": "cor_mechanized_holsters",
-    "name": "Mechanized Holsters",
+    "id": "cor_counter_attack",
+    "name": "Counter Attack",
     "category": "cores",
-    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nMECHANIZED HOLSTERS",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nCOUNTER ATTACK",
+    "type": "Core",
+    "rarity": "Prestige",
+    "value": "2500 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/counter_attack.webp"
+  },
+  {
+    "id": "cor_hit_and_run",
+    "name": "Hit and Run",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nHIT AND RUN",
     "type": "Core",
     "rarity": "Deluxe",
     "value": "200 Credits",
     "comments": "COMMENTS\nINFO",
-    "image": "/images/cores/mechanized_holsters.webp"
+    "image": "/images/cores/hit_and_run.webp"
+  },
+  {
+    "id": "cor_samaritan",
+    "name": "Samaritan",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nSAMARITAN",
+    "type": "Core",
+    "rarity": "Prestige",
+    "value": "2500 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/samaritan.webp"
+  },
+  {
+    "id": "cor_hideout",
+    "name": "Hideout",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nHIDEOUT",
+    "type": "Core",
+    "rarity": "Superior",
+    "value": "600 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/hideout.webp"
+  },
+  {
+    "id": "cor_microjet_efficiency_package",
+    "name": "Microjet Efficiency Package",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nMICROJET EFFICIENCY PACKAGE",
+    "type": "Core",
+    "rarity": "Prestige",
+    "value": "2500 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/microjet_efficiency_package.webp"
+  },
+  {
+    "id": "cor_early_warning_system",
+    "name": "Early Warning System",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nEARLY WARNING SYSTEM",
+    "type": "Core",
+    "rarity": "Prestige",
+    "value": "2500 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/early_warning_system.webp"
+  },
+  {
+    "id": "cor_patience",
+    "name": "Patience",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nPATIENCE",
+    "type": "Core",
+    "rarity": "Deluxe",
+    "value": "200 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/patience.webp"
   },
   {
     "id": "cor_minus_sights",
@@ -339,5 +141,302 @@
     "value": "2500 Credits",
     "comments": "COMMENTS\nINFO",
     "image": "/images/cores/minus_sights.webp"
+  },
+  {
+    "id": "cor_cluster_payload",
+    "name": "Cluster Payload",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nCLUSTER PAYLOAD",
+    "type": "Core",
+    "rarity": "Superior",
+    "value": "600 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/cluster_payload.webp"
+  },
+  {
+    "id": "cor_mechanized_holsters",
+    "name": "Mechanized Holsters",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nMECHANIZED HOLSTERS",
+    "type": "Core",
+    "rarity": "Deluxe",
+    "value": "200 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/mechanized_holsters.webp"
+  },
+  {
+    "id": "cor_myrmidon",
+    "name": "Myrmidon",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nMYRMIDON",
+    "type": "Core",
+    "rarity": "Deluxe",
+    "value": "200 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/myrmidon.webp"
+  },
+  {
+    "id": "cor_safe_landings",
+    "name": "Safe Landings",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nSAFE LANDINGS",
+    "type": "Core",
+    "rarity": "Deluxe",
+    "value": "200 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/safe_landings.webp"
+  },
+  {
+    "id": "cor_lock_'n_load",
+    "name": "Lock 'N Load",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nLOCK N LOAD",
+    "type": "Core",
+    "rarity": "Deluxe",
+    "value": "200 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/lock_'n_load.webp"
+  },
+  {
+    "id": "cor_guerrilla",
+    "name": "Guerrilla",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nGUERRILLA",
+    "type": "Core",
+    "rarity": "Superior",
+    "value": "600 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/guerrilla.webp"
+  },
+  {
+    "id": "cor_hypocritic_oath",
+    "name": "Hypocritic Oath",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nHYPOCRITIC OATH",
+    "type": "Core",
+    "rarity": "Deluxe",
+    "value": "200 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/hypocritic_oath.webp"
+  },
+  {
+    "id": "cor_intake_vents",
+    "name": "Intake Vents",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nINTAKE VENTS",
+    "type": "Core",
+    "rarity": "Superior",
+    "value": "600 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/intake_vents.webp"
+  },
+  {
+    "id": "cor_electron_recapture_sinks",
+    "name": "Electron Recapture Sinks",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nELECTRON RECAPTURE SINKS",
+    "type": "Core",
+    "rarity": "Deluxe",
+    "value": "200 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/electron_recapture_sinks.webp"
+  },
+  {
+    "id": "cor_bad_cop",
+    "name": "Bad Cop",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nBAD COP",
+    "type": "Core",
+    "rarity": "Enhanced",
+    "value": "70 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/bad_cop.webp"
+  },
+  {
+    "id": "cor_blast_off",
+    "name": "Blast Off",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nBLAST OFF",
+    "type": "Core",
+    "rarity": "Deluxe",
+    "value": "200 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/blast_off.webp"
+  },
+  {
+    "id": "cor_premium_package",
+    "name": "Premium Package",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nPREMIUM PACKAGE",
+    "type": "Core",
+    "rarity": "Deluxe",
+    "value": "200 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/premium_package.webp"
+  },
+  {
+    "id": "cor_predator",
+    "name": "Predator",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nPREDATOR",
+    "type": "Core",
+    "rarity": "Deluxe",
+    "value": "200 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/predator.webp"
+  },
+  {
+    "id": "cor_hunter//killer",
+    "name": "Hunter//Killer",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nHUNTERKILLER",
+    "type": "Core",
+    "rarity": "Deluxe",
+    "value": "200 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/hunter//killer.webp"
+  },
+  {
+    "id": "cor_flexweave_casing",
+    "name": "Flexweave Casing",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nFLEXWEAVE CASING",
+    "type": "Core",
+    "rarity": "Deluxe",
+    "value": "200 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/flexweave_casing.webp"
+  },
+  {
+    "id": "cor_cut_to_the_chase",
+    "name": "Cut To The Chase",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nCUT TO THE CHASE",
+    "type": "Core",
+    "rarity": "Deluxe",
+    "value": "200 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/cut_to_the_chase.webp"
+  },
+  {
+    "id": "cor_bullrush",
+    "name": "Bullrush",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nBULLRUSH",
+    "type": "Core",
+    "rarity": "Superior",
+    "value": "600 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/bullrush.webp"
+  },
+  {
+    "id": "cor_calling_card",
+    "name": "Calling Card",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nCALLING CARD",
+    "type": "Core",
+    "rarity": "Prestige",
+    "value": "3000 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/calling_card.webp"
+  },
+  {
+    "id": "cor_echo_chamber",
+    "name": "Echo Chamber",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nECHO CHAMBER",
+    "type": "Core",
+    "rarity": "Superior",
+    "value": "600 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/echo_chamber.webp"
+  },
+  {
+    "id": "cor_bombardier",
+    "name": "Bombardier",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nBOMBARDIER",
+    "type": "Core",
+    "rarity": "Enhanced",
+    "value": "70 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/bombardier.webp"
+  },
+  {
+    "id": "cor_intuition",
+    "name": "Intuition",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nINTUITION",
+    "type": "Core",
+    "rarity": "Prestige",
+    "value": "2500 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/intuition.webp"
+  },
+  {
+    "id": "cor_shadow_strike",
+    "name": "Shadow Strike",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nSHADOW STRIKE",
+    "type": "Core",
+    "rarity": "Prestige",
+    "value": "2500 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/shadow_strike.webp"
+  },
+  {
+    "id": "cor_friendly_face",
+    "name": "Friendly Face",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nFRIENDLY FACE",
+    "type": "Core",
+    "rarity": "Deluxe",
+    "value": "200 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/friendly_face.webp"
+  },
+  {
+    "id": "cor_keen_eye",
+    "name": "Keen Eye",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nKEEN EYE",
+    "type": "Core",
+    "rarity": "Deluxe",
+    "value": "200 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/keen_eye.webp"
+  },
+  {
+    "id": "cor_adrenal_core",
+    "name": "Adrenal Core",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nADRENAL CORE",
+    "type": "Core",
+    "rarity": "Superior",
+    "value": "1800 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/adrenal_core.webp"
+  },
+  {
+    "id": "cor_safe_landing",
+    "name": "Safe Landing",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nSAFE LANDING",
+    "type": "Core",
+    "rarity": "Deluxe",
+    "value": "198.04 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/safe_landing.webp"
+  },
+  {
+    "id": "cor_impact_siphons",
+    "name": "Impact Siphons",
+    "category": "cores",
+    "/": "HOME\n/\nDATABASE\n/\nCORES\n/\nIMPACT SIPHONS",
+    "type": "Core",
+    "rarity": "Prestige",
+    "value": "2500 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/cores/impact_siphons.webp"
   }
 ]

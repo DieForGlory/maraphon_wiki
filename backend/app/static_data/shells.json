@@ -1,91 +1,37 @@
 [
   {
-    "id": "s_vandal",
-    "name": "VANDAL",
+    "id": "s_destroyer",
+    "name": "DESTROYER",
     "category": "shells",
     "abilities": [
       {
-        "name": "AMPLIFY",
+        "name": "SEARCH AND DESTROY",
         "type": "Prime Ability",
-        "description": "Overcharge your movement systems, reducing the heat generated from your movement abilities while increasing your movement speed and weapon dexterity."
+        "description": "Activate your shoulder-mounted missile pods. Dealing sustained damage to targets launches homing missiles, Immobilizing and dealing damage upon impact."
       },
       {
-        "name": "DISRUPT CANNON",
+        "name": "RIOT BARRICADE",
         "type": "Tactical Ability",
         "description": ""
       },
       {
-        "name": "MICROJETS",
+        "name": "THRUSTER",
         "type": "Trait 1",
         "description": ""
       },
       {
-        "name": "POWER SLIDE",
+        "name": "TACTICAL SPRINT",
         "type": "Trait 2",
         "description": ""
       }
     ],
-    "description": "Vandals are troublemakers. Amplified movement abilities help cover ground at incredible speeds, changing any encounter in their favor. Microjets allow a secondary jump to reach higher ground. And a built-in Disrupt Cannon provides instant offense or defense when it is charged and ready to fire. [excerpt, UESC threat eval: rnnr.vndl.fileID63112c_p324]",
-    "archetype": "Combat Anarchist",
-    "tech": "Enhanced Movement",
-    "model": "Vandal",
-    "series": "Glitch",
-    "gender": "Female",
-    "image": "/images/shells/vandal.webp",
-    "slots": [
-      "head",
-      "torso",
-      "legs",
-      "shield"
-    ],
-    "heat_capacity": 10,
-    "agility": 20,
-    "loot_speed": 35,
-    "melee_damage": 10,
-    "prime_recovery": 10,
-    "tactical_recovery": 5,
-    "self_repair_speed": 10,
-    "finisher_siphon": 10,
-    "revive_speed": 15,
-    "hardware": 10,
-    "firewall": 20,
-    "fall_resistance": 10,
-    "ping_duration": 10,
-    "base_heat": 10
-  },
-  {
-    "id": "s_triage",
-    "name": "TRIAGE",
-    "category": "shells",
-    "abilities": [
-      {
-        "name": "REBOOT+",
-        "type": "Prime Ability",
-        "description": "Ready your shell's emergency defibrillator systems. Lock on to downed crew members or hostile targets and fire your Reboot+ device at them, which revives crew members and EMPs hostiles."
-      },
-      {
-        "name": "MED-DRONE",
-        "type": "Tactical Ability",
-        "description": ""
-      },
-      {
-        "name": "SHAREWARE.EXE",
-        "type": "Trait 1",
-        "description": ""
-      },
-      {
-        "name": "BATTERY OVERCHARGE",
-        "type": "Trait 2",
-        "description": ""
-      }
-    ],
-    "description": "Triage saves lives. Deployable healing drones and onboard reboot abilities allow Triage Runners and their crews to keep running after taking damage. Mend health and shields and even reboot crewmates at a distance to survive and fight again and again. [excerpt, UESC threat eval: rnnr.trge.fileID70064c_p392]",
-    "archetype": "Field medic",
-    "tech": "Damage Mitigation",
-    "model": "Triage",
-    "series": "Aux",
+    "description": "Destroyers seek conflict. Advanced weapons systems, a personal defense barricade, and increased movement abilities allow. Destroyers to take the fight to any threat or rival they encounter during a run. [excerpt, UESC threat eval: rnnr.dstryr.fileID55430c_p496]",
+    "archetype": "Combat specialist",
+    "tech": "Offense / Defense",
+    "model": "Destroyer",
+    "series": "Locus",
     "gender": "Male",
-    "image": "/images/shells/triage.webp",
+    "image": "/images/shells/destroyer.webp",
     "slots": [
       "head",
       "torso",
@@ -162,38 +108,146 @@
     "base_heat": 10
   },
   {
-    "id": "s_destroyer",
-    "name": "DESTROYER",
+    "id": "s_recon",
+    "name": "RECON",
     "category": "shells",
     "abilities": [
       {
-        "name": "SEARCH AND DESTROY",
+        "name": "ECHO PULSE",
         "type": "Prime Ability",
-        "description": "Activate your shoulder-mounted missile pods. Dealing sustained damage to targets launches homing missiles, Immobilizing and dealing damage upon impact."
+        "description": "Activate your shell's advanced detection systems, releasing a series of sonar pulses that reveal the location of nearby hostiles."
       },
       {
-        "name": "RIOT BARRICADE",
+        "name": "TRACKER DRONE",
         "type": "Tactical Ability",
         "description": ""
       },
       {
-        "name": "THRUSTER",
+        "name": "INTERROGATION",
         "type": "Trait 1",
         "description": ""
       },
       {
-        "name": "TACTICAL SPRINT",
+        "name": "STALKER PROTOCOL",
         "type": "Trait 2",
         "description": ""
       }
     ],
-    "description": "Destroyers seek conflict. Advanced weapons systems, a personal defense barricade, and increased movement abilities allow. Destroyers to take the fight to any threat or rival they encounter during a run. [excerpt, UESC threat eval: rnnr.dstryr.fileID55430c_p496]",
-    "archetype": "Combat specialist",
-    "tech": "Offense / Defense",
-    "model": "Destroyer",
-    "series": "Locus",
+    "description": "Recons use intel as a weapon. Everything about Recon shells is geared toward identifying threats and providing insight into enemy locations and movements: Mark hostiles. Track wounded targets. Deploy a tracker drone to engage threats in unexpected ways. [excerpt, UESC threat eval: rnnr.rcn.fileID38406c_p471]",
+    "archetype": "Intel specialist",
+    "tech": "Threat Detection",
+    "model": "Recon",
+    "series": "Blackbird",
+    "gender": "Female",
+    "image": "/images/shells/recon.webp",
+    "slots": [
+      "head",
+      "torso",
+      "legs",
+      "shield"
+    ],
+    "heat_capacity": 10,
+    "agility": 20,
+    "loot_speed": 35,
+    "melee_damage": 10,
+    "prime_recovery": 10,
+    "tactical_recovery": 5,
+    "self_repair_speed": 10,
+    "finisher_siphon": 10,
+    "revive_speed": 15,
+    "hardware": 10,
+    "firewall": 20,
+    "fall_resistance": 10,
+    "ping_duration": 10,
+    "base_heat": 10
+  },
+  {
+    "id": "s_triage",
+    "name": "TRIAGE",
+    "category": "shells",
+    "abilities": [
+      {
+        "name": "REBOOT+",
+        "type": "Prime Ability",
+        "description": "Ready your shell's emergency defibrillator systems. Lock on to downed crew members or hostile targets and fire your Reboot+ device at them, which revives crew members and EMPs hostiles."
+      },
+      {
+        "name": "MED-DRONE",
+        "type": "Tactical Ability",
+        "description": ""
+      },
+      {
+        "name": "SHAREWARE.EXE",
+        "type": "Trait 1",
+        "description": ""
+      },
+      {
+        "name": "BATTERY OVERCHARGE",
+        "type": "Trait 2",
+        "description": ""
+      }
+    ],
+    "description": "Triage saves lives. Deployable healing drones and onboard reboot abilities allow Triage Runners and their crews to keep running after taking damage. Mend health and shields and even reboot crewmates at a distance to survive and fight again and again. [excerpt, UESC threat eval: rnnr.trge.fileID70064c_p392]",
+    "archetype": "Field medic",
+    "tech": "Damage Mitigation",
+    "model": "Triage",
+    "series": "Aux",
     "gender": "Male",
-    "image": "/images/shells/destroyer.webp",
+    "image": "/images/shells/triage.webp",
+    "slots": [
+      "head",
+      "torso",
+      "legs",
+      "shield"
+    ],
+    "heat_capacity": 10,
+    "agility": 20,
+    "loot_speed": 35,
+    "melee_damage": 10,
+    "prime_recovery": 10,
+    "tactical_recovery": 5,
+    "self_repair_speed": 10,
+    "finisher_siphon": 10,
+    "revive_speed": 15,
+    "hardware": 10,
+    "firewall": 20,
+    "fall_resistance": 10,
+    "ping_duration": 10,
+    "base_heat": 10
+  },
+  {
+    "id": "s_vandal",
+    "name": "VANDAL",
+    "category": "shells",
+    "abilities": [
+      {
+        "name": "AMPLIFY",
+        "type": "Prime Ability",
+        "description": "Overcharge your movement systems, reducing the heat generated from your movement abilities while increasing your movement speed and weapon dexterity."
+      },
+      {
+        "name": "DISRUPT CANNON",
+        "type": "Tactical Ability",
+        "description": ""
+      },
+      {
+        "name": "MICROJETS",
+        "type": "Trait 1",
+        "description": ""
+      },
+      {
+        "name": "POWER SLIDE",
+        "type": "Trait 2",
+        "description": ""
+      }
+    ],
+    "description": "Vandals are troublemakers. Amplified movement abilities help cover ground at incredible speeds, changing any encounter in their favor. Microjets allow a secondary jump to reach higher ground. And a built-in Disrupt Cannon provides instant offense or defense when it is charged and ready to fire. [excerpt, UESC threat eval: rnnr.vndl.fileID63112c_p324]",
+    "archetype": "Combat Anarchist",
+    "tech": "Enhanced Movement",
+    "model": "Vandal",
+    "series": "Glitch",
+    "gender": "Female",
+    "image": "/images/shells/vandal.webp",
     "slots": [
       "head",
       "torso",
@@ -248,60 +302,6 @@
     "series": "Void",
     "gender": "Male",
     "image": "/images/shells/assassin.webp",
-    "slots": [
-      "head",
-      "torso",
-      "legs",
-      "shield"
-    ],
-    "heat_capacity": 10,
-    "agility": 20,
-    "loot_speed": 35,
-    "melee_damage": 10,
-    "prime_recovery": 10,
-    "tactical_recovery": 5,
-    "self_repair_speed": 10,
-    "finisher_siphon": 10,
-    "revive_speed": 15,
-    "hardware": 10,
-    "firewall": 20,
-    "fall_resistance": 10,
-    "ping_duration": 10,
-    "base_heat": 10
-  },
-  {
-    "id": "s_recon",
-    "name": "RECON",
-    "category": "shells",
-    "abilities": [
-      {
-        "name": "ECHO PULSE",
-        "type": "Prime Ability",
-        "description": "Activate your shell's advanced detection systems, releasing a series of sonar pulses that reveal the location of nearby hostiles."
-      },
-      {
-        "name": "TRACKER DRONE",
-        "type": "Tactical Ability",
-        "description": ""
-      },
-      {
-        "name": "INTERROGATION",
-        "type": "Trait 1",
-        "description": ""
-      },
-      {
-        "name": "STALKER PROTOCOL",
-        "type": "Trait 2",
-        "description": ""
-      }
-    ],
-    "description": "Recons use intel as a weapon. Everything about Recon shells is geared toward identifying threats and providing insight into enemy locations and movements: Mark hostiles. Track wounded targets. Deploy a tracker drone to engage threats in unexpected ways. [excerpt, UESC threat eval: rnnr.rcn.fileID38406c_p471]",
-    "archetype": "Intel specialist",
-    "tech": "Threat Detection",
-    "model": "Recon",
-    "series": "Blackbird",
-    "gender": "Female",
-    "image": "/images/shells/recon.webp",
     "slots": [
       "head",
       "torso",

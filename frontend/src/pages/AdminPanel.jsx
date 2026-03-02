@@ -6,7 +6,7 @@ function AdminPanel() {
   const { token } = useAuthStore();
 
   useEffect(() => {
-    fetch('https://5mpxwrp0-5000.euw.devtunnels.ms/api/admin/users', {
+    fetch('/api/admin/users', {
       headers: { 'Authorization': `Bearer ${token}` }
     })
       .then(res => res.json())
@@ -15,7 +15,7 @@ function AdminPanel() {
   }, [token]);
 
   const updateRole = async (userId, newRole) => {
-    await fetch(`https://5mpxwrp0-5000.euw.devtunnels.ms/api/admin/users/${userId}/role`, {
+    await fetch(`/api/admin/users/${userId}/role`, {
       method: 'PUT',
       headers: {
         'Content-Type': 'application/json',

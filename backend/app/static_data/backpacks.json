@@ -14,12 +14,56 @@
     "id": "bac_24xs_med_pack+",
     "name": "24XS Med Pack+",
     "category": "backpacks",
-    "/": "HOME\n/\nDATABASE\n/\nBACKPACKS\n/\n24XS MED PACK",
+    "/": "HOME\n/\nDATABASE\n/\nBACKPACKS\n/\n24XS MED PACK PLUS",
     "type": "Backpack",
     "rarity": "Prestige",
     "value": "5000 Credits",
     "comments": "COMMENTS\nINFO",
     "image": "/images/backpacks/24xs_med_pack+.webp"
+  },
+  {
+    "id": "bac_24xs_sneak_pack+",
+    "name": "24XS Sneak Pack+",
+    "category": "backpacks",
+    "/": "HOME\n/\nDATABASE\n/\nBACKPACKS\n/\n24XS SNEAK PACK",
+    "type": "Backpack",
+    "rarity": "Prestige",
+    "value": "13000 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/backpacks/24xs_sneak_pack+.webp"
+  },
+  {
+    "id": "bac_8xs_base_pack",
+    "name": "8XS Base Pack",
+    "category": "backpacks",
+    "/": "HOME\n/\nDATABASE\n/\nBACKPACKS\n/\n8XS BASE PACK",
+    "type": "Backpack",
+    "rarity": "Enhanced",
+    "value": "100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/backpacks/8xs_base_pack.webp"
+  },
+  {
+    "id": "bac_16xs_med_pack",
+    "name": "16XS Med Pack",
+    "category": "backpacks",
+    "/": "HOME\n/\nDATABASE\n/\nBACKPACKS\n/\n16XS MED PACK",
+    "type": "Backpack",
+    "rarity": "Deluxe",
+    "value": "550 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/backpacks/16xs_med_pack.webp"
+  },
+  {
+    "id": "bac_24xs_med_pack",
+    "name": "24XS Med Pack",
+    "category": "backpacks",
+    "/": "HOME\n/\nDATABASE\n/\nBACKPACKS\n/\n24XS MED PACK",
+    "type": "Backpack",
+    "rarity": "Superior",
+    "value": "1650 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/backpacks/24xs_med_pack.webp"
   },
   {
     "id": "bac_8xs_med_pack",
@@ -38,32 +82,21 @@
     "category": "backpacks",
     "/": "HOME\n/\nDATABASE\n/\nBACKPACKS\n/\n8XS AMMO PACK",
     "type": "Backpack",
-    "rarity": "Standard",
+    "rarity": "Enhanced",
     "value": "100 Credits",
     "comments": "COMMENTS\nINFO",
     "image": "/images/backpacks/8xs_ammo_pack.webp"
   },
   {
-    "id": "bac_8xs_base_pack",
-    "name": "8XS Base Pack",
+    "id": "bac_16xs_ammo_pack",
+    "name": "16XS Ammo Pack",
     "category": "backpacks",
-    "/": "HOME\n/\nDATABASE\n/\nBACKPACKS\n/\n8XS BASE PACK",
+    "/": "HOME\n/\nDATABASE\n/\nBACKPACKS\n/\n16XS AMMO PACK",
     "type": "Backpack",
-    "rarity": "Enhanced",
-    "value": "100 Credits",
+    "rarity": "Deluxe",
+    "value": "550 Credits",
     "comments": "COMMENTS\nINFO",
-    "image": "/images/backpacks/8xs_base_pack.webp"
-  },
-  {
-    "id": "bac_24xs_base_pack",
-    "name": "24XS Base Pack",
-    "category": "backpacks",
-    "/": "HOME\n/\nDATABASE\n/\nBACKPACKS\n/\n24XS BASE PACK",
-    "type": "Backpack",
-    "rarity": "Superior",
-    "value": "1650 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/backpacks/24xs_base_pack.webp"
+    "image": "/images/backpacks/16xs_ammo_pack.webp"
   },
   {
     "id": "bac_16xs_base_pack",
@@ -75,5 +108,16 @@
     "value": "550 Credits",
     "comments": "COMMENTS\nINFO",
     "image": "/images/backpacks/16xs_base_pack.webp"
+  },
+  {
+    "id": "bac_24xs_base_pack",
+    "name": "24XS Base Pack",
+    "category": "backpacks",
+    "/": "HOME\n/\nDATABASE\n/\nBACKPACKS\n/\n24XS BASE PACK",
+    "type": "Backpack",
+    "rarity": "Superior",
+    "value": "1650 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/backpacks/24xs_base_pack.webp"
   }
 ]

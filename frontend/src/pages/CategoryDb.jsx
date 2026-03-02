@@ -32,7 +32,7 @@ export default function CategoryDb() {
   useEffect(() => {
     setItems([]);
     setSelectedItem(null);
-    fetch(`https://5mpxwrp0-5000.euw.devtunnels.ms/api/data/${category}`)
+    fetch(`/api/data/${category}`)
       .then(res => {
         if (!res.ok) throw new Error("Network response was not ok");
         return res.json();

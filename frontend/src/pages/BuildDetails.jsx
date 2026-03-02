@@ -17,10 +17,10 @@ export default function BuildDetails() {
       return;
     }
     Promise.all([
-      fetch('https://5mpxwrp0-5000.euw.devtunnels.ms/api/data/shells').then(res => res.json()),
-      fetch('https://5mpxwrp0-5000.euw.devtunnels.ms/api/data/cores').then(res => res.json()),
-      fetch('https://5mpxwrp0-5000.euw.devtunnels.ms/api/data/implants').then(res => res.json()),
-      fetch('https://5mpxwrp0-5000.euw.devtunnels.ms/api/data/weapons').then(res => res.json())
+      fetch('/api/data/shells').then(res => res.json()),
+      fetch('/api/data/cores').then(res => res.json()),
+      fetch('/api/data/implants').then(res => res.json()),
+      fetch('/api/data/weapons').then(res => res.json())
     ]).then(([s, c, i, w]) => setDb({ shells: s, cores: c, implants: i, weapons: w }))
       .catch(err => console.error(err));
   }, [shell, nav]);

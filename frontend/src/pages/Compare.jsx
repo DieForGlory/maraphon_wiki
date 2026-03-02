@@ -7,7 +7,7 @@ export default function Compare() {
   const { compareList, removeFromCompare, toggleCompareMod } = useBuildStore();
 
   useEffect(() => {
-    fetch('https://5mpxwrp0-5000.euw.devtunnels.ms/api/data/mods')
+    fetch('/api/data/mods')
       .then(res => res.json())
       .then(data => setDbMods(Array.isArray(data) ? data : []))
       .catch(() => setDbMods([]));

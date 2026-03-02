@@ -1,113 +1,14 @@
 [
   {
-    "id": "equ_bubble_shield",
-    "name": "Bubble Shield",
+    "id": "equ_proximity_sensor",
+    "name": "Proximity Sensor",
     "category": "equipment",
-    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nBUBBLE SHIELD",
-    "type": "Gadget",
-    "rarity": "Superior",
-    "value": "400 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/equipment/bubble_shield.webp"
-  },
-  {
-    "id": "equ_ammo_crate",
-    "name": "Ammo Crate",
-    "category": "equipment",
-    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nAMMO CRATE",
-    "type": "Gadget",
-    "rarity": "Standard",
-    "value": "20 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/equipment/ammo_crate.webp"
-  },
-  {
-    "id": "equ_trap_pack",
-    "name": "Trap Pack",
-    "category": "equipment",
-    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nTRAP PACK",
+    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nPROXIMITY SENSOR",
     "type": "Gadget",
     "rarity": "Enhanced",
     "value": "45 Credits",
     "comments": "COMMENTS\nINFO",
-    "image": "/images/equipment/trap_pack.webp"
-  },
-  {
-    "id": "equ_emp_grenade",
-    "name": "EMP Grenade",
-    "category": "equipment",
-    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nEMP GRENADE",
-    "type": "Grenade",
-    "rarity": "Enhanced",
-    "value": "100 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/equipment/emp_grenade.webp"
-  },
-  {
-    "id": "equ_claymore_mine",
-    "name": "Claymore Mine",
-    "category": "equipment",
-    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nCLAYMORE MINE",
-    "type": "Gadget",
-    "rarity": "Standard",
-    "value": "20 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/equipment/claymore_mine.webp"
-  },
-  {
-    "id": "equ_chem_grenade",
-    "name": "Chem Grenade",
-    "category": "equipment",
-    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nCHEM GRENADE",
-    "type": "Grenade",
-    "rarity": "Deluxe",
-    "value": "100 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/equipment/chem_grenade.webp"
-  },
-  {
-    "id": "equ_enhanced_ammo_crate",
-    "name": "Enhanced Ammo Crate",
-    "category": "equipment",
-    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nENHANCED AMMO CRATE",
-    "type": "Gadget",
-    "rarity": "Enhanced",
-    "value": "45 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/equipment/enhanced_ammo_crate.webp"
-  },
-  {
-    "id": "equ_smoke_grenade",
-    "name": "Smoke Grenade",
-    "category": "equipment",
-    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nSMOKE GRENADE",
-    "type": "Grenade",
-    "rarity": "Standard",
-    "value": "20 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/equipment/smoke_grenade.webp"
-  },
-  {
-    "id": "equ_frag_grenade",
-    "name": "Frag Grenade",
-    "category": "equipment",
-    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nFRAG GRENADE",
-    "type": "Grenade",
-    "rarity": "Enhanced",
-    "value": "45 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/equipment/frag_grenade.webp"
-  },
-  {
-    "id": "equ_flechette_grenade",
-    "name": "Flechette Grenade",
-    "category": "equipment",
-    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nFLECHETTE GRENADE",
-    "type": "Grenade",
-    "rarity": "Enhanced",
-    "value": "45 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/equipment/flechette_grenade.webp"
+    "image": "/images/equipment/proximity_sensor.webp"
   },
   {
     "id": "equ_heat_grenade",
@@ -121,14 +22,124 @@
     "image": "/images/equipment/heat_grenade.webp"
   },
   {
-    "id": "equ_proximity_sensor",
-    "name": "Proximity Sensor",
+    "id": "equ_smoke_grenade",
+    "name": "Smoke Grenade",
     "category": "equipment",
-    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nPROXIMITY SENSOR",
+    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nSMOKE GRENADE",
+    "type": "Grenade",
+    "rarity": "Standard",
+    "value": "20 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/equipment/smoke_grenade.webp"
+  },
+  {
+    "id": "equ_chem_grenade",
+    "name": "Chem Grenade",
+    "category": "equipment",
+    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nCHEM GRENADE",
+    "type": "Grenade",
+    "rarity": "Deluxe",
+    "value": "100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/equipment/chem_grenade.webp"
+  },
+  {
+    "id": "equ_flechette_grenade",
+    "name": "Flechette Grenade",
+    "category": "equipment",
+    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nFLECHETTE GRENADE",
+    "type": "Grenade",
+    "rarity": "Enhanced",
+    "value": "45 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/equipment/flechette_grenade.webp"
+  },
+  {
+    "id": "equ_frag_grenade",
+    "name": "Frag Grenade",
+    "category": "equipment",
+    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nFRAG GRENADE",
+    "type": "Grenade",
+    "rarity": "Enhanced",
+    "value": "45 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/equipment/frag_grenade.webp"
+  },
+  {
+    "id": "equ_trap_pack",
+    "name": "Trap Pack",
+    "category": "equipment",
+    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nTRAP PACK",
     "type": "Gadget",
     "rarity": "Enhanced",
     "value": "45 Credits",
     "comments": "COMMENTS\nINFO",
-    "image": "/images/equipment/proximity_sensor.webp"
+    "image": "/images/equipment/trap_pack.webp"
+  },
+  {
+    "id": "equ_bubble_shield",
+    "name": "Bubble Shield",
+    "category": "equipment",
+    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nBUBBLE SHIELD",
+    "type": "Gadget",
+    "rarity": "Superior",
+    "value": "400 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/equipment/bubble_shield.webp"
+  },
+  {
+    "id": "equ_emp_grenade",
+    "name": "EMP Grenade",
+    "category": "equipment",
+    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nEMP GRENADE",
+    "type": "Grenade",
+    "rarity": "Deluxe",
+    "value": "100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/equipment/emp_grenade.webp"
+  },
+  {
+    "id": "equ_ammo_crate",
+    "name": "Ammo Crate",
+    "category": "equipment",
+    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nAMMO CRATE",
+    "type": "Gadget",
+    "rarity": "Standard",
+    "value": "20 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/equipment/ammo_crate.webp"
+  },
+  {
+    "id": "equ_claymore_mine",
+    "name": "Claymore Mine",
+    "category": "equipment",
+    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nCLAYMORE MINE",
+    "type": "Gadget",
+    "rarity": "Standard",
+    "value": "20 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/equipment/claymore_mine.webp"
+  },
+  {
+    "id": "equ_advanced_ammo_crate",
+    "name": "Advanced Ammo Crate",
+    "category": "equipment",
+    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nADVANCED AMMO CRATE",
+    "type": "Gadget",
+    "rarity": "Deluxe",
+    "value": "100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/equipment/advanced_ammo_crate.webp"
+  },
+  {
+    "id": "equ_enhanced_ammo_crate",
+    "name": "Enhanced Ammo Crate",
+    "category": "equipment",
+    "/": "HOME\n/\nDATABASE\n/\nEQUIPMENT\n/\nENHANCED AMMO CRATE",
+    "type": "Gadget",
+    "rarity": "Enhanced",
+    "value": "45 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/equipment/enhanced_ammo_crate.webp"
   }
 ]

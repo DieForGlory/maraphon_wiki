@@ -1,80 +1,14 @@
 [
   {
-    "id": "val_uesc_obedience_matrix",
-    "name": "UESC Obedience Matrix",
+    "id": "val_surveillance_recordings",
+    "name": "Surveillance Recordings",
     "category": "valuables",
-    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nUESC OBEDIENCE MATRIX",
-    "type": "Eccentric",
-    "rarity": "Deluxe",
-    "value": "300 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/valuables/uesc_obedience_matrix.webp"
-  },
-  {
-    "id": "val_empty_drink_container",
-    "name": "Empty Drink Container",
-    "category": "valuables",
-    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nEMPTY DRINK CONTAINER",
-    "type": "Valuable",
-    "rarity": "Standard",
-    "value": "40 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/valuables/empty_drink_container.webp"
-  },
-  {
-    "id": "val_empty_med_cooler",
-    "name": "Empty Med Cooler",
-    "category": "valuables",
-    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nEMPTY MED COOLER",
-    "type": "Valuable",
-    "rarity": "Standard",
-    "value": "30 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/valuables/empty_med_cooler.webp"
-  },
-  {
-    "id": "val_rejected_medical_clearance",
-    "name": "Rejected Medical Clearance",
-    "category": "valuables",
-    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nREJECTED MEDICAL CLEARANCE",
-    "type": "Valuable",
-    "rarity": "Enhanced",
-    "value": "150 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/valuables/rejected_medical_clearance.webp"
-  },
-  {
-    "id": "val_anchorite_provisions",
-    "name": "Anchorite Provisions",
-    "category": "valuables",
-    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nANCHORITE PROVISIONS",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nSURVEILLANCE RECORDINGS",
     "type": "Valuable",
     "rarity": "Deluxe",
     "value": "1100 Credits",
     "comments": "COMMENTS\nINFO",
-    "image": "/images/valuables/anchorite_provisions.webp"
-  },
-  {
-    "id": "val_surveillance_mirror",
-    "name": "Surveillance Mirror",
-    "category": "valuables",
-    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nSURVEILLANCE MIRROR",
-    "type": "Valuable",
-    "rarity": "Enhanced",
-    "value": "65 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/valuables/surveillance_mirror.webp"
-  },
-  {
-    "id": "val_rations_certificate",
-    "name": "Rations Certificate",
-    "category": "valuables",
-    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nRATIONS CERTIFICATE",
-    "type": "Valuable",
-    "rarity": "Standard",
-    "value": "30 Credits",
-    "comments": "COMMENTS\nINFO",
-    "image": "/images/valuables/rations_certificate.webp"
+    "image": "/images/valuables/surveillance_recordings.webp"
   },
   {
     "id": "val_generic_records",
@@ -88,15 +22,290 @@
     "image": "/images/valuables/generic_records.webp"
   },
   {
-    "id": "val_cascadian_electronics",
-    "name": "Cascadian Electronics",
+    "id": "val_cerebral_record",
+    "name": "Cerebral Record",
     "category": "valuables",
-    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nCASCADIAN ELECTRONICS",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nCEREBRAL RECORD",
+    "type": "Valuable",
+    "rarity": "Superior",
+    "value": "4000 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/cerebral_record.webp"
+  },
+  {
+    "id": "val_biosynthetic_pet_prototype",
+    "name": "Biosynthetic Pet Prototype",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nBIOSYNTHETIC PET PROTOTYPE",
+    "type": "Valuable",
+    "rarity": "Deluxe",
+    "value": "1100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/biosynthetic_pet_prototype.webp"
+  },
+  {
+    "id": "val_xenobiopsy",
+    "name": "Xenobiopsy",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nXENOBIOPSY",
+    "type": "Valuable",
+    "rarity": "Superior",
+    "value": "4000 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/xenobiopsy.webp"
+  },
+  {
+    "id": "val_confiscated_colonial_folklore",
+    "name": "Confiscated Colonial Folklore",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nCONFISCATED COLONIAL FOLKLORE 1",
+    "type": "Valuable",
+    "rarity": "Deluxe",
+    "value": "1100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/confiscated_colonial_folklore.webp"
+  },
+  {
+    "id": "val_drinkable_cheeseburger",
+    "name": "Drinkable Cheeseburger",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nDRINKABLE CHEESEBURGER",
+    "type": "Valuable",
+    "rarity": "Deluxe",
+    "value": "1100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/drinkable_cheeseburger.webp"
+  },
+  {
+    "id": "val_mission_documents",
+    "name": "Mission Documents",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nMISSION DOCUMENTS",
+    "type": "Valuable",
+    "rarity": "Deluxe",
+    "value": "1100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/mission_documents.webp"
+  },
+  {
+    "id": "val_welcome_package",
+    "name": "Welcome Package",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nWELCOME PACKAGE",
+    "type": "Valuable",
+    "rarity": "Deluxe",
+    "value": "1100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/welcome_package.webp"
+  },
+  {
+    "id": "val_b._strauss,_on_ai",
+    "name": "B. Strauss, On AI",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nB STRAUSS ON AI",
+    "type": "Valuable",
+    "rarity": "Deluxe",
+    "value": "1100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/b._strauss,_on_ai.webp"
+  },
+  {
+    "id": "val_truthworm.exe",
+    "name": "Truthworm.exe",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nTRUTHWORMEXE",
+    "type": "Valuable",
+    "rarity": "Superior",
+    "value": "4000 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/truthworm.exe.webp"
+  },
+  {
+    "id": "val_rations_certificate",
+    "name": "Rations Certificate",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nRATIONS CERTIFICATE",
+    "type": "Valuable",
+    "rarity": "Standard",
+    "value": "30 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/rations_certificate.webp"
+  },
+  {
+    "id": "val_personal_log:_isaak_kuzmin",
+    "name": "Personal Log: Isaak Kuzmin",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nPERSONAL LOG ISAAK KUZMIN",
+    "type": "Valuable",
+    "rarity": "Superior",
+    "value": "4000 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/personal_log:_isaak_kuzmin.webp"
+  },
+  {
+    "id": "val_history_for_young_readers",
+    "name": "History For Young Readers",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nHISTORY FOR YOUNG READERS",
+    "type": "Valuable",
+    "rarity": "Deluxe",
+    "value": "1100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/history_for_young_readers.webp"
+  },
+  {
+    "id": "val_the_severed_twins",
+    "name": "The Severed Twins",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nTHE SEVERED TWINS",
+    "type": "Valuable",
+    "rarity": "Prestige",
+    "value": "12000 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/the_severed_twins.webp"
+  },
+  {
+    "id": "val_shared_nightmare_phenomenology",
+    "name": "Shared Nightmare Phenomenology",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nSHARED NIGHTMARE PHENOMENOLOGY",
+    "type": "Valuable",
+    "rarity": "Superior",
+    "value": "4000 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/shared_nightmare_phenomenology.webp"
+  },
+  {
+    "id": "val_confiscated_colonial_folklore",
+    "name": "Confiscated Colonial Folklore",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nCONFISCATED COLONIAL FOLKLORE",
+    "type": "Valuable",
+    "rarity": "Deluxe",
+    "value": "1100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/confiscated_colonial_folklore.webp"
+  },
+  {
+    "id": "val_uesc_security_reports",
+    "name": "UESC Security Reports",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nUESC SECURITY REPORTS",
+    "type": "Valuable",
+    "rarity": "Deluxe",
+    "value": "1100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/uesc_security_reports.webp"
+  },
+  {
+    "id": "val_emotional_support_plushie",
+    "name": "Emotional Support Plushie",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nEMOTIONAL SUPPORT PLUSHIE",
+    "type": "Valuable",
+    "rarity": "Superior",
+    "value": "4000 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/emotional_support_plushie.webp"
+  },
+  {
+    "id": "val_premium_tick_milk",
+    "name": "Premium Tick Milk",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nPREMIUM TICK MILK",
+    "type": "Valuable",
+    "rarity": "Deluxe",
+    "value": "1100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/premium_tick_milk.webp"
+  },
+  {
+    "id": "val_corrupted_personal_log",
+    "name": "Corrupted Personal Log",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nCORRUPTED PERSONAL LOG",
+    "type": "Valuable",
+    "rarity": "Prestige",
+    "value": "12000 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/corrupted_personal_log.webp"
+  },
+  {
+    "id": "val_survey_drone_cartridge",
+    "name": "Survey Drone Cartridge",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nSURVEY DRONE CARTRIDGE",
+    "type": "Valuable",
+    "rarity": "Deluxe",
+    "value": "1100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/survey_drone_cartridge.webp"
+  },
+  {
+    "id": "val_surveillance_mirror",
+    "name": "Surveillance Mirror",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nSURVEILLANCE MIRROR",
+    "type": "Valuable",
+    "rarity": "Enhanced",
+    "value": "65 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/surveillance_mirror.webp"
+  },
+  {
+    "id": "val_empty_drink_container",
+    "name": "Empty Drink Container",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nEMPTY DRINK CONTAINER",
     "type": "Valuable",
     "rarity": "Standard",
     "value": "40 Credits",
     "comments": "COMMENTS\nINFO",
-    "image": "/images/valuables/cascadian_electronics.webp"
+    "image": "/images/valuables/empty_drink_container.webp"
+  },
+  {
+    "id": "val_archival_psas",
+    "name": "Archival PSAs",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nARCHIVAL PSAS",
+    "type": "Valuable",
+    "rarity": "Deluxe",
+    "value": "1100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/archival_psas.webp"
+  },
+  {
+    "id": "val_anchorite_provisions",
+    "name": "Anchorite Provisions",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nANCHORITE PROVISIONS",
+    "type": "Valuable",
+    "rarity": "Deluxe",
+    "value": "1100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/anchorite_provisions.webp"
+  },
+  {
+    "id": "val_class_b_anomalous_material",
+    "name": "Class B Anomalous Material",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nCLASS B ANOMALOUS MATERIAL",
+    "type": "Valuable",
+    "rarity": "Deluxe",
+    "value": "1100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/class_b_anomalous_material.webp"
+  },
+  {
+    "id": "val_personal_log:_general_reed",
+    "name": "Personal Log: General Reed",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nPERSONAL LOG GENERAL REED",
+    "type": "Valuable",
+    "rarity": "Deluxe",
+    "value": "1100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/personal_log:_general_reed.webp"
   },
   {
     "id": "val_cyberspinal_fluid",
@@ -108,5 +317,93 @@
     "value": "180 Credits",
     "comments": "COMMENTS\nINFO",
     "image": "/images/valuables/cyberspinal_fluid.webp"
+  },
+  {
+    "id": "val_cascadian_electronics",
+    "name": "Cascadian Electronics",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nCASCADIAN ELECTRONICS",
+    "type": "Valuable",
+    "rarity": "Standard",
+    "value": "40 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/cascadian_electronics.webp"
+  },
+  {
+    "id": "val_rejected_medical_clearance",
+    "name": "Rejected Medical Clearance",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nREJECTED MEDICAL CLEARANCE",
+    "type": "Valuable",
+    "rarity": "Enhanced",
+    "value": "150 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/rejected_medical_clearance.webp"
+  },
+  {
+    "id": "val_broken_alarm_system",
+    "name": "Broken Alarm System",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nBROKEN ALARM SYSTEM",
+    "type": "Valuable",
+    "rarity": "Deluxe",
+    "value": "550 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/broken_alarm_system.webp"
+  },
+  {
+    "id": "val_weaveworm_stasis_knot",
+    "name": "Weaveworm Stasis Knot",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nWEAVEWORM STASIS KNOT",
+    "type": "Valuable",
+    "rarity": "Superior",
+    "value": "4000 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/weaveworm_stasis_knot.webp"
+  },
+  {
+    "id": "val_shrink_wrapped_bonsai",
+    "name": "Shrink-Wrapped Bonsai",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nSHRINK WRAPPED BONSAI",
+    "type": "Valuable",
+    "rarity": "Deluxe",
+    "value": "1100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/shrink-wrapped_bonsai.webp"
+  },
+  {
+    "id": "val_grievance_log_record",
+    "name": "Grievance Log Record",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nGRIEVANCE LOG RECORD",
+    "type": "Valuable",
+    "rarity": "Deluxe",
+    "value": "1100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/grievance_log_record.webp"
+  },
+  {
+    "id": "val_empty_med_cooler",
+    "name": "Empty Med Cooler",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nEMPTY MED COOLER",
+    "type": "Valuable",
+    "rarity": "Standard",
+    "value": "30 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/empty_med_cooler.webp"
+  },
+  {
+    "id": "val_archived_legal_records",
+    "name": "Archived Legal Records",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nARCHIVED LEGAL RECORDS",
+    "type": "Valuable",
+    "rarity": "Superior",
+    "value": "4000 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/archived_legal_records.webp"
   }
 ]
