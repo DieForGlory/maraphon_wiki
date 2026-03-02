@@ -1,0 +1,380 @@
+[
+  {
+    "id": "s_vandal",
+    "name": "VANDAL",
+    "category": "shells",
+    "abilities": [
+      {
+        "name": "AMPLIFY",
+        "type": "Prime Ability",
+        "description": "Overcharge your movement systems, reducing the heat generated from your movement abilities while increasing your movement speed and weapon dexterity."
+      },
+      {
+        "name": "DISRUPT CANNON",
+        "type": "Tactical Ability",
+        "description": ""
+      },
+      {
+        "name": "MICROJETS",
+        "type": "Trait 1",
+        "description": ""
+      },
+      {
+        "name": "POWER SLIDE",
+        "type": "Trait 2",
+        "description": ""
+      }
+    ],
+    "description": "Vandals are troublemakers. Amplified movement abilities help cover ground at incredible speeds, changing any encounter in their favor. Microjets allow a secondary jump to reach higher ground. And a built-in Disrupt Cannon provides instant offense or defense when it is charged and ready to fire. [excerpt, UESC threat eval: rnnr.vndl.fileID63112c_p324]",
+    "archetype": "Combat Anarchist",
+    "tech": "Enhanced Movement",
+    "model": "Vandal",
+    "series": "Glitch",
+    "gender": "Female",
+    "image": "/images/shells/vandal.webp",
+    "slots": [
+      "head",
+      "torso",
+      "legs",
+      "shield"
+    ],
+    "heat_capacity": 10,
+    "agility": 20,
+    "loot_speed": 35,
+    "melee_damage": 10,
+    "prime_recovery": 10,
+    "tactical_recovery": 5,
+    "self_repair_speed": 10,
+    "finisher_siphon": 10,
+    "revive_speed": 15,
+    "hardware": 10,
+    "firewall": 20,
+    "fall_resistance": 10,
+    "ping_duration": 10,
+    "base_heat": 10
+  },
+  {
+    "id": "s_triage",
+    "name": "TRIAGE",
+    "category": "shells",
+    "abilities": [
+      {
+        "name": "REBOOT+",
+        "type": "Prime Ability",
+        "description": "Ready your shell's emergency defibrillator systems. Lock on to downed crew members or hostile targets and fire your Reboot+ device at them, which revives crew members and EMPs hostiles."
+      },
+      {
+        "name": "MED-DRONE",
+        "type": "Tactical Ability",
+        "description": ""
+      },
+      {
+        "name": "SHAREWARE.EXE",
+        "type": "Trait 1",
+        "description": ""
+      },
+      {
+        "name": "BATTERY OVERCHARGE",
+        "type": "Trait 2",
+        "description": ""
+      }
+    ],
+    "description": "Triage saves lives. Deployable healing drones and onboard reboot abilities allow Triage Runners and their crews to keep running after taking damage. Mend health and shields and even reboot crewmates at a distance to survive and fight again and again. [excerpt, UESC threat eval: rnnr.trge.fileID70064c_p392]",
+    "archetype": "Field medic",
+    "tech": "Damage Mitigation",
+    "model": "Triage",
+    "series": "Aux",
+    "gender": "Male",
+    "image": "/images/shells/triage.webp",
+    "slots": [
+      "head",
+      "torso",
+      "legs",
+      "shield"
+    ],
+    "heat_capacity": 10,
+    "agility": 20,
+    "loot_speed": 35,
+    "melee_damage": 10,
+    "prime_recovery": 10,
+    "tactical_recovery": 5,
+    "self_repair_speed": 10,
+    "finisher_siphon": 10,
+    "revive_speed": 15,
+    "hardware": 10,
+    "firewall": 20,
+    "fall_resistance": 10,
+    "ping_duration": 10,
+    "base_heat": 10
+  },
+  {
+    "id": "s_thief",
+    "name": "THIEF",
+    "category": "shells",
+    "abilities": [
+      {
+        "name": "PICKPOCKET DRONE",
+        "type": "Prime Ability",
+        "description": "Deploy a remotely piloted flying drone with a limited lifespan. While piloting the drone: Fire a hooked tether that can eject the highest-value item from target inventories, collect and store loose loot and open doors. Exit the drone and return to your shell. At any point while the drone is still active, activate the ability again to continue piloting the drone."
+      },
+      {
+        "name": "GRAPPLE DEVICE",
+        "type": "Tactical Ability",
+        "description": ""
+      },
+      {
+        "name": "X-RAY VISOR",
+        "type": "Trait 1",
+        "description": ""
+      },
+      {
+        "name": "THE FINER THINGS",
+        "type": "Trait 2",
+        "description": ""
+      }
+    ],
+    "description": "A Thief always keeps their eyes on the prize. Use enhanced visors and piloted drones to remotely locate and acquire valuable loot. Steal from a zone or rival Runners. Then make an escape or push the advantage with the Thief's deployable grapple device. [excerpt, UESC threat eval: rnnr.thf.fileID70064c_p223]",
+    "archetype": "Covert acquisitions",
+    "tech": "Advanced heist mechanics",
+    "model": "Thief",
+    "series": "Icon",
+    "gender": "Female",
+    "image": "/images/shells/thief.webp",
+    "slots": [
+      "head",
+      "torso",
+      "legs",
+      "shield"
+    ],
+    "heat_capacity": 10,
+    "agility": 20,
+    "loot_speed": 35,
+    "melee_damage": 10,
+    "prime_recovery": 10,
+    "tactical_recovery": 5,
+    "self_repair_speed": 10,
+    "finisher_siphon": 10,
+    "revive_speed": 15,
+    "hardware": 10,
+    "firewall": 20,
+    "fall_resistance": 10,
+    "ping_duration": 10,
+    "base_heat": 10
+  },
+  {
+    "id": "s_destroyer",
+    "name": "DESTROYER",
+    "category": "shells",
+    "abilities": [
+      {
+        "name": "SEARCH AND DESTROY",
+        "type": "Prime Ability",
+        "description": "Activate your shoulder-mounted missile pods. Dealing sustained damage to targets launches homing missiles, Immobilizing and dealing damage upon impact."
+      },
+      {
+        "name": "RIOT BARRICADE",
+        "type": "Tactical Ability",
+        "description": ""
+      },
+      {
+        "name": "THRUSTER",
+        "type": "Trait 1",
+        "description": ""
+      },
+      {
+        "name": "TACTICAL SPRINT",
+        "type": "Trait 2",
+        "description": ""
+      }
+    ],
+    "description": "Destroyers seek conflict. Advanced weapons systems, a personal defense barricade, and increased movement abilities allow. Destroyers to take the fight to any threat or rival they encounter during a run. [excerpt, UESC threat eval: rnnr.dstryr.fileID55430c_p496]",
+    "archetype": "Combat specialist",
+    "tech": "Offense / Defense",
+    "model": "Destroyer",
+    "series": "Locus",
+    "gender": "Male",
+    "image": "/images/shells/destroyer.webp",
+    "slots": [
+      "head",
+      "torso",
+      "legs",
+      "shield"
+    ],
+    "heat_capacity": 10,
+    "agility": 20,
+    "loot_speed": 35,
+    "melee_damage": 10,
+    "prime_recovery": 10,
+    "tactical_recovery": 5,
+    "self_repair_speed": 10,
+    "finisher_siphon": 10,
+    "revive_speed": 15,
+    "hardware": 10,
+    "firewall": 20,
+    "fall_resistance": 10,
+    "ping_duration": 10,
+    "base_heat": 10
+  },
+  {
+    "id": "s_assassin",
+    "name": "ASSASSIN",
+    "category": "shells",
+    "abilities": [
+      {
+        "name": "SMOKE SCREEN",
+        "type": "Prime Ability",
+        "description": "Throw a smoke disc that emits a line of smoke fields in front of you, disrupting the optics of those who step inside."
+      },
+      {
+        "name": "ACTIVE CAMO",
+        "type": "Tactical Ability",
+        "description": ""
+      },
+      {
+        "name": "SHADOW DIVE",
+        "type": "Trait 1",
+        "description": ""
+      },
+      {
+        "name": "SHROUD",
+        "type": "Trait 2",
+        "description": ""
+      }
+    ],
+    "description": "Assassins are lethal shadows. Active Camo and synthetic smoke deployment allows for unseen strikes or the perfect cover during hostile engagements. The ability to move undetected makes Assassins valued allies and lethal enemies. [excerpt, UESC threat eval: rnnr.assn.fileID70064c_p223]",
+    "archetype": "Shadow agent",
+    "tech": "Invisibility systems",
+    "model": "Assassin",
+    "series": "Void",
+    "gender": "Male",
+    "image": "/images/shells/assassin.webp",
+    "slots": [
+      "head",
+      "torso",
+      "legs",
+      "shield"
+    ],
+    "heat_capacity": 10,
+    "agility": 20,
+    "loot_speed": 35,
+    "melee_damage": 10,
+    "prime_recovery": 10,
+    "tactical_recovery": 5,
+    "self_repair_speed": 10,
+    "finisher_siphon": 10,
+    "revive_speed": 15,
+    "hardware": 10,
+    "firewall": 20,
+    "fall_resistance": 10,
+    "ping_duration": 10,
+    "base_heat": 10
+  },
+  {
+    "id": "s_recon",
+    "name": "RECON",
+    "category": "shells",
+    "abilities": [
+      {
+        "name": "ECHO PULSE",
+        "type": "Prime Ability",
+        "description": "Activate your shell's advanced detection systems, releasing a series of sonar pulses that reveal the location of nearby hostiles."
+      },
+      {
+        "name": "TRACKER DRONE",
+        "type": "Tactical Ability",
+        "description": ""
+      },
+      {
+        "name": "INTERROGATION",
+        "type": "Trait 1",
+        "description": ""
+      },
+      {
+        "name": "STALKER PROTOCOL",
+        "type": "Trait 2",
+        "description": ""
+      }
+    ],
+    "description": "Recons use intel as a weapon. Everything about Recon shells is geared toward identifying threats and providing insight into enemy locations and movements: Mark hostiles. Track wounded targets. Deploy a tracker drone to engage threats in unexpected ways. [excerpt, UESC threat eval: rnnr.rcn.fileID38406c_p471]",
+    "archetype": "Intel specialist",
+    "tech": "Threat Detection",
+    "model": "Recon",
+    "series": "Blackbird",
+    "gender": "Female",
+    "image": "/images/shells/recon.webp",
+    "slots": [
+      "head",
+      "torso",
+      "legs",
+      "shield"
+    ],
+    "heat_capacity": 10,
+    "agility": 20,
+    "loot_speed": 35,
+    "melee_damage": 10,
+    "prime_recovery": 10,
+    "tactical_recovery": 5,
+    "self_repair_speed": 10,
+    "finisher_siphon": 10,
+    "revive_speed": 15,
+    "hardware": 10,
+    "firewall": 20,
+    "fall_resistance": 10,
+    "ping_duration": 10,
+    "base_heat": 10
+  },
+  {
+    "id": "s_rook",
+    "name": "ROOK",
+    "category": "shells",
+    "abilities": [
+      {
+        "name": "RECUPERATION",
+        "type": "Prime Ability",
+        "description": "Activate your prototype frame's emergency repair system to slowly restore health. Interrupted when you take damage."
+      },
+      {
+        "name": "SIGNAL MASK",
+        "type": "Tactical Ability",
+        "description": ""
+      },
+      {
+        "name": "NO DATA AVAILABLE",
+        "type": "Trait 1",
+        "description": ""
+      },
+      {
+        "name": "NO DATA AVAILABLE",
+        "type": "Trait 2",
+        "description": ""
+      }
+    ],
+    "description": "ALERT: Solo only ALERT: Limited loadout ALERT: Contracts paused ALERT: Restricted zone access ALERT: Requires Season Level 3 ALERT: GOOD LUCK [excerpt, UESC threat eval:rnnr.rk.instrctn.mnl_p103]",
+    "archetype": "Scavenger",
+    "tech": "[limited]",
+    "model": "Rook",
+    "series": "Rook",
+    "gender": "Unknown",
+    "image": "/images/shells/rook.webp",
+    "slots": [
+      "head",
+      "torso",
+      "legs",
+      "shield"
+    ],
+    "heat_capacity": 10,
+    "agility": 20,
+    "loot_speed": 35,
+    "melee_damage": 10,
+    "prime_recovery": 10,
+    "tactical_recovery": 5,
+    "self_repair_speed": 10,
+    "finisher_siphon": 10,
+    "revive_speed": 15,
+    "hardware": 10,
+    "firewall": 20,
+    "fall_resistance": 10,
+    "ping_duration": 10,
+    "base_heat": 10
+  }
+]

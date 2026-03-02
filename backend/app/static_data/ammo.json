@@ -1,0 +1,57 @@
+[
+  {
+    "id": "amm_light_rounds",
+    "name": "Light Rounds",
+    "category": "ammo",
+    "/": "HOME\n/\nDATABASE\n/\nAMMO\n/\nLIGHT ROUNDS",
+    "rarity": "Standard",
+    "value": "0.04 Credits",
+    "max_size": 180,
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/ammo/light_rounds.webp"
+  },
+  {
+    "id": "amm_heavy_rounds",
+    "name": "Heavy Rounds",
+    "category": "ammo",
+    "/": "HOME\n/\nDATABASE\n/\nAMMO\n/\nHEAVY ROUNDS",
+    "rarity": "Standard",
+    "value": "0.04 Credits",
+    "max_size": 120,
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/ammo/heavy_rounds.webp"
+  },
+  {
+    "id": "amm_mips_rounds",
+    "name": "MIPS Rounds",
+    "category": "ammo",
+    "/": "HOME\n/\nDATABASE\n/\nAMMO\n/\nMIPS ROUNDS",
+    "rarity": "Standard",
+    "value": "0.04 Credits",
+    "max_size": 12,
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/ammo/mips_rounds.webp"
+  },
+  {
+    "id": "amm_volt_cell",
+    "name": "Volt Cell",
+    "category": "ammo",
+    "/": "HOME\n/\nDATABASE\n/\nAMMO\n/\nVOLT CELL",
+    "rarity": "Standard",
+    "value": "0.04 Credits",
+    "max_size": 12,
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/ammo/volt_cell.webp"
+  },
+  {
+    "id": "amm_volt_battery",
+    "name": "Volt Battery",
+    "category": "ammo",
+    "/": "HOME\n/\nDATABASE\n/\nAMMO\n/\nVOLT BATTERY",
+    "rarity": "Standard",
+    "value": "0.04 Credits",
+    "max_size": 8,
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/ammo/volt_battery.webp"
+  }
+]

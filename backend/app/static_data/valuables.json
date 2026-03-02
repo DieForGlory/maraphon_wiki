@@ -1,0 +1,112 @@
+[
+  {
+    "id": "val_uesc_obedience_matrix",
+    "name": "UESC Obedience Matrix",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nUESC OBEDIENCE MATRIX",
+    "type": "Eccentric",
+    "rarity": "Deluxe",
+    "value": "300 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/uesc_obedience_matrix.webp"
+  },
+  {
+    "id": "val_empty_drink_container",
+    "name": "Empty Drink Container",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nEMPTY DRINK CONTAINER",
+    "type": "Valuable",
+    "rarity": "Standard",
+    "value": "40 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/empty_drink_container.webp"
+  },
+  {
+    "id": "val_empty_med_cooler",
+    "name": "Empty Med Cooler",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nEMPTY MED COOLER",
+    "type": "Valuable",
+    "rarity": "Standard",
+    "value": "30 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/empty_med_cooler.webp"
+  },
+  {
+    "id": "val_rejected_medical_clearance",
+    "name": "Rejected Medical Clearance",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nREJECTED MEDICAL CLEARANCE",
+    "type": "Valuable",
+    "rarity": "Enhanced",
+    "value": "150 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/rejected_medical_clearance.webp"
+  },
+  {
+    "id": "val_anchorite_provisions",
+    "name": "Anchorite Provisions",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nANCHORITE PROVISIONS",
+    "type": "Valuable",
+    "rarity": "Deluxe",
+    "value": "1100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/anchorite_provisions.webp"
+  },
+  {
+    "id": "val_surveillance_mirror",
+    "name": "Surveillance Mirror",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nSURVEILLANCE MIRROR",
+    "type": "Valuable",
+    "rarity": "Enhanced",
+    "value": "65 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/surveillance_mirror.webp"
+  },
+  {
+    "id": "val_rations_certificate",
+    "name": "Rations Certificate",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nRATIONS CERTIFICATE",
+    "type": "Valuable",
+    "rarity": "Standard",
+    "value": "30 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/rations_certificate.webp"
+  },
+  {
+    "id": "val_generic_records",
+    "name": "Generic Records",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nGENERIC RECORDS",
+    "type": "Valuable",
+    "rarity": "Standard",
+    "value": "10 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/generic_records.webp"
+  },
+  {
+    "id": "val_cascadian_electronics",
+    "name": "Cascadian Electronics",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nCASCADIAN ELECTRONICS",
+    "type": "Valuable",
+    "rarity": "Standard",
+    "value": "40 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/cascadian_electronics.webp"
+  },
+  {
+    "id": "val_cyberspinal_fluid",
+    "name": "Cyberspinal Fluid",
+    "category": "valuables",
+    "/": "HOME\n/\nDATABASE\n/\nVALUABLES\n/\nCYBERSPINAL FLUID",
+    "type": "Valuable",
+    "rarity": "Enhanced",
+    "value": "180 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/valuables/cyberspinal_fluid.webp"
+  }
+]

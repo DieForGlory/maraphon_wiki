@@ -1,0 +1,13 @@
+[
+  {
+    "id": "cur_credits",
+    "name": "Credits",
+    "category": "currency",
+    "/": "HOME\n/\nDATABASE\n/\nCURRENCY\n/\nCREDITS",
+    "type": "Currency",
+    "rarity": "Standard",
+    "value": "1 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/currency/credits.webp"
+  }
+]

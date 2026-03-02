@@ -1,0 +1,123 @@
+[
+  {
+    "id": "con_hec",
+    "name": "HEC",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nHEC",
+    "type": "Survival",
+    "rarity": "Enhanced",
+    "value": "60 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/hec.webp"
+  },
+  {
+    "id": "con_depleted_patch_kit",
+    "name": "Depleted Patch Kit",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nDEPLETED PATCH KIT",
+    "type": "Heal",
+    "rarity": "Standard",
+    "value": "10 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/depleted_patch_kit.webp"
+  },
+  {
+    "id": "con_depleted_shield_charge",
+    "name": "Depleted Shield Charge",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nDEPLETED SHIELD CHARGE",
+    "type": "Shield",
+    "rarity": "Standard",
+    "value": "10 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/depleted_shield_charge.webp"
+  },
+  {
+    "id": "con_panacea_kit",
+    "name": "Panacea Kit",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nPANACEA KIT",
+    "type": "Shield",
+    "rarity": "Superior",
+    "value": "280 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/panacea_kit.webp"
+  },
+  {
+    "id": "con_signal_jammer",
+    "name": "Signal Jammer",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nSIGNAL JAMMER",
+    "type": "Utility",
+    "rarity": "Enhanced",
+    "value": "45 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/signal_jammer.webp"
+  },
+  {
+    "id": "con_os_reboot",
+    "name": "OS Reboot",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nOS REBOOT",
+    "type": "Cleanse",
+    "rarity": "Standard",
+    "value": "20 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/os_reboot.webp"
+  },
+  {
+    "id": "con_advanced_patch_kit",
+    "name": "Advanced Patch Kit",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nADVANCED PATCH KIT",
+    "type": "Heal",
+    "rarity": "Deluxe",
+    "value": "540 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/advanced_patch_kit.webp"
+  },
+  {
+    "id": "con_mechanic's_kit",
+    "name": "Mechanic's Kit",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nMECHANICS KIT",
+    "type": "Cleanse",
+    "rarity": "Standard",
+    "value": "20 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/mechanic's_kit.webp"
+  },
+  {
+    "id": "con_shield_charge",
+    "name": "Shield Charge",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nSHIELD CHARGE",
+    "type": "Shield",
+    "rarity": "Standard",
+    "value": "0.04 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/shield_charge.webp"
+  },
+  {
+    "id": "con_cardio_kick",
+    "name": "Cardio Kick",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nCARDIO KICK",
+    "type": "Buff",
+    "rarity": "Deluxe",
+    "value": "90 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/cardio_kick.webp"
+  },
+  {
+    "id": "con_patch_kit",
+    "name": "Patch Kit",
+    "category": "consumables",
+    "/": "HOME\n/\nDATABASE\n/\nCONSUMABLES\n/\nPATCH KIT",
+    "type": "Heal",
+    "rarity": "Standard",
+    "value": "125 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/consumables/patch_kit.webp"
+  }
+]

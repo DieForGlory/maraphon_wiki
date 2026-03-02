@@ -1,0 +1,68 @@
+[
+  {
+    "id": "sal_weapon_parts",
+    "name": "Weapon Parts",
+    "category": "salvage",
+    "/": "HOME\n/\nDATABASE\n/\nSALVAGE\n/\nWEAPON PARTS",
+    "type": "Salvage",
+    "rarity": "Standard",
+    "value": "10 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/salvage/weapon_parts.webp"
+  },
+  {
+    "id": "sal_sparkleaf",
+    "name": "Sparkleaf",
+    "category": "salvage",
+    "/": "HOME\n/\nDATABASE\n/\nSALVAGE\n/\nSPARKLEAF",
+    "type": "Salvage",
+    "rarity": "Enhanced",
+    "value": "40 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/salvage/sparkleaf.webp"
+  },
+  {
+    "id": "sal_surveillance_lens",
+    "name": "Surveillance Lens",
+    "category": "salvage",
+    "/": "HOME\n/\nDATABASE\n/\nSALVAGE\n/\nSURVEILLANCE LENS",
+    "type": "Salvage",
+    "rarity": "Enhanced",
+    "value": "50 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/salvage/surveillance_lens.webp"
+  },
+  {
+    "id": "sal_sterilized_biostripping",
+    "name": "Sterilized Biostripping",
+    "category": "salvage",
+    "/": "HOME\n/\nDATABASE\n/\nSALVAGE\n/\nSTERILIZED BIOSTRIPPING",
+    "type": "Salvage",
+    "rarity": "Deluxe",
+    "value": "50 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/salvage/sterilized_biostripping.webp"
+  },
+  {
+    "id": "sal_biomata_resin",
+    "name": "Biomata Resin",
+    "category": "salvage",
+    "/": "HOME\n/\nDATABASE\n/\nSALVAGE\n/\nBIOMATA RESIN",
+    "type": "Salvage",
+    "rarity": "Deluxe",
+    "value": "50 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/salvage/biomata_resin.webp"
+  },
+  {
+    "id": "sal_cetinite_rods",
+    "name": "Cetinite Rods",
+    "category": "salvage",
+    "/": "HOME\n/\nDATABASE\n/\nSALVAGE\n/\nCETINITE RODS",
+    "type": "Salvage",
+    "rarity": "Deluxe",
+    "value": "50 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/salvage/cetinite_rods.webp"
+  }
+]

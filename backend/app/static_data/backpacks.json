@@ -1,0 +1,79 @@
+[
+  {
+    "id": "bac_24xs_ammo_pack",
+    "name": "24XS Ammo Pack",
+    "category": "backpacks",
+    "/": "HOME\n/\nDATABASE\n/\nBACKPACKS\n/\n24XS AMMO PACK",
+    "type": "Backpack",
+    "rarity": "Superior",
+    "value": "1650 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/backpacks/24xs_ammo_pack.webp"
+  },
+  {
+    "id": "bac_24xs_med_pack+",
+    "name": "24XS Med Pack+",
+    "category": "backpacks",
+    "/": "HOME\n/\nDATABASE\n/\nBACKPACKS\n/\n24XS MED PACK",
+    "type": "Backpack",
+    "rarity": "Prestige",
+    "value": "5000 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/backpacks/24xs_med_pack+.webp"
+  },
+  {
+    "id": "bac_8xs_med_pack",
+    "name": "8XS Med Pack",
+    "category": "backpacks",
+    "/": "HOME\n/\nDATABASE\n/\nBACKPACKS\n/\n8XS MED PACK",
+    "type": "Backpack",
+    "rarity": "Enhanced",
+    "value": "0.04 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/backpacks/8xs_med_pack.webp"
+  },
+  {
+    "id": "bac_8xs_ammo_pack",
+    "name": "8XS Ammo Pack",
+    "category": "backpacks",
+    "/": "HOME\n/\nDATABASE\n/\nBACKPACKS\n/\n8XS AMMO PACK",
+    "type": "Backpack",
+    "rarity": "Standard",
+    "value": "100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/backpacks/8xs_ammo_pack.webp"
+  },
+  {
+    "id": "bac_8xs_base_pack",
+    "name": "8XS Base Pack",
+    "category": "backpacks",
+    "/": "HOME\n/\nDATABASE\n/\nBACKPACKS\n/\n8XS BASE PACK",
+    "type": "Backpack",
+    "rarity": "Enhanced",
+    "value": "100 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/backpacks/8xs_base_pack.webp"
+  },
+  {
+    "id": "bac_24xs_base_pack",
+    "name": "24XS Base Pack",
+    "category": "backpacks",
+    "/": "HOME\n/\nDATABASE\n/\nBACKPACKS\n/\n24XS BASE PACK",
+    "type": "Backpack",
+    "rarity": "Superior",
+    "value": "1650 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/backpacks/24xs_base_pack.webp"
+  },
+  {
+    "id": "bac_16xs_base_pack",
+    "name": "16XS Base Pack",
+    "category": "backpacks",
+    "/": "HOME\n/\nDATABASE\n/\nBACKPACKS\n/\n16XS BASE PACK",
+    "type": "Backpack",
+    "rarity": "Deluxe",
+    "value": "550 Credits",
+    "comments": "COMMENTS\nINFO",
+    "image": "/images/backpacks/16xs_base_pack.webp"
+  }
+]
