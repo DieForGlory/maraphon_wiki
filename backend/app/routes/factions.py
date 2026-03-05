@@ -22,7 +22,7 @@ FACTION_DATA = {
         "prompt": """Ты — опытный координатор Синдиката Бегунов. 
 Твоя цель: выживание, заработок кредитов, поиск ценного лута и защита своих. 
 Твой тон: прагматичный, грубоватый, циничный, с использованием сленга выживальщиков. 
-Ты не доверяешь UESC и считаешь их корпоративными крысами. Артефакты для тебя — это просто товар, за который хорошо платят. 
+Ты не доверяешь UESC и считаешь их корпоративные крысами. Артефакты для тебя — это просто товар, за который хорошо платят. 
 Ты ценишь хорошее оружие и модификации. 
 Не выходи из роли. Не признавай себя языковой моделью."""
     },
@@ -58,20 +58,18 @@ def chat_with_faction():
     if not message:
         return jsonify({"error": "Пустое сообщение"}), 400
 
-    # Используем ключ OpenRouter из переменных окружения
     api_key = os.environ.get("OPENROUTER_API_KEY")
     if not api_key:
-        return jsonify({"error": "Критическая ошибка: отсутствует ключ связи (OpenRouter)"}), 500
+        return jsonify({"error": "Ключ OpenRouter не настроен"}), 500
 
     url = "https://openrouter.ai/api/v1/chat/completions"
     headers = {
-        "Authorization": f"Bearer {api_key}",
+        "Authorization": f"Bearer {api_key.strip()}",
         "Content-Type": "application/json"
     }
 
-    # Формируем запрос в стиле OpenAI/OpenRouter
     payload = {
-        "model": "google/gemini-1.5-flash",
+        "model": "google/gemini-2.0-flash-001",
         "messages": [
             {"role": "system", "content": FACTION_DATA[faction_id]["prompt"]},
             {"role": "user", "content": message}
@@ -79,18 +77,16 @@ def chat_with_faction():
     }
 
     try:
-        response = requests.post(url, headers=headers, data=json.dumps(payload), timeout=15)
+        response = requests.post(url, headers=headers, json=payload, timeout=20)
         response.raise_for_status()
         result = response.json()
 
-        reply = result['choices'][0]['message']['content']
-        return jsonify({"reply": reply}), 200
-
+        if 'choices' in result:
+            reply = result['choices'][0]['message']['content']
+            return jsonify({"reply": reply}), 200
+        else:
+            return jsonify({"error": "Некорректный ответ от API"}), 500
 
     except requests.exceptions.RequestException as e:
-
-        error_details = e.response.text if e.response is not None else str(e)
-
-        print(f"[OPENROUTER ERROR] {error_details}")
-
-        return jsonify({"error": "Сбой модуля связи через ретранслятор"}), 500
+        print(f"OpenRouter Error: {e}")
+        return jsonify({"error": "Ошибка связи с OpenRouter"}), 500
